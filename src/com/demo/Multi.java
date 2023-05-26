@@ -6,6 +6,9 @@ public class Multi {
 		int a=10;
 		int b=10;
 		System.out.println("Multiplication : "+(a*b));
+		a=30;
+		a=40;
+		System.out.println("Multiplication : "+(a*b));
 
 	}
 
