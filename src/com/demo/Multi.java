@@ -17,6 +17,13 @@ public class Multi {
 		a=70;
 		a=80;
 		System.out.println("Multiplication : "+(a*b));
+		//added from local by Ajit for conflict example
+		//bcz sujit have added some code
+		//but we have not pulled those changes in our eclipse
+		//and we are trying push our some changes to github
+		a=90;
+		a=100;
+		System.out.println("Multiplication : "+(a*b));
 	}
 
 }
