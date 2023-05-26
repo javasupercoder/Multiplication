@@ -13,6 +13,10 @@ public class Multi {
 		a=50;
 		a=60;
 		System.out.println("Multiplication : "+(a*b));
+		//added from local by Ajit
+		a=70;
+		a=80;
+		System.out.println("Multiplication : "+(a*b));
 	}
 
 }
