@@ -30,6 +30,7 @@ public class Multi {
 		a=60;
 
 		System.out.println("Multiplication : "+(a*b));
+		//added one line on 18 oct
 	}
 
 }
