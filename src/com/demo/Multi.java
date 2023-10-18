@@ -31,7 +31,7 @@ public class Multi {
 
 		System.out.println("Multiplication : "+(a*b));
 		//added one line on 18 oct
-		System.out.println("End of the code");
+		System.out.println("End of the code  ");
 	}
 
 }
